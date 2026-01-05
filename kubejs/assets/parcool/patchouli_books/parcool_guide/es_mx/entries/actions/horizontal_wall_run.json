@@ -1,0 +1,23 @@
+{
+  "name": "Correr Horizontalmente",
+  "icon": "minecraft:bricks",
+  "category": "parcool:category_actions",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Puedes correr horizontalmente pegado a la pared. Esto debería ayudarte a saltar a una plataforma lejana.$(br2)Aunque a veces se malinterpreta, la técnica de $(l:actions/wall_run)Correr por la Pared$() es la vertical, no la horizontal."
+    },
+    {
+      "type": "patchouli:image",
+      "border": "true",
+      "images": [
+        "parcool:textures/gui/entries/horizontal_wall_run.png"
+      ]
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Cómo Usar",
+      "text": "$(bold)1.$() Haz $(l:parcool:actions/fast_run)Correr Rápido$() en el aire a lo largo de la pared$(br)$(bold)2.$() Mantén presionada la tecla de Correr Horizontalmente por la Pared($(k:parcool.HorizontalWallRun))"
+    }
+  ]
+}

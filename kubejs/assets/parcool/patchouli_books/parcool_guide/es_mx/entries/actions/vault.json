@@ -1,0 +1,24 @@
+{
+  "name": "Saltar Valla",
+  "icon": "minecraft:oak_fence",
+  "category": "parcool:category_actions",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Saltar Valla$() es una habilidad usada para superar obstáculos como vallas.$(br)Hay numerosas variaciones. En este juego, puedes usar $(italic)Speed Vault$() y $(italic)Kong Vault$()."
+    },
+    {
+      "type": "patchouli:image",
+      "border": "true",
+      "images": [
+        "parcool:textures/gui/entries/speed_vault.png"
+      ],
+      "title": "Speed Vault$"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Cómo Usar",
+      "text": "$(bold)1.$() Haz $(l:parcool:actions/fast_run)Correr Rápido$()$(br)$(bold)2.$() Choca contra los bloques"
+    }
+  ]
+}

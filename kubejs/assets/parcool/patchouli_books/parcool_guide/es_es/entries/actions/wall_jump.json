@@ -1,0 +1,16 @@
+{
+  "name": "Salto en la Pared",
+  "icon": "minecraft:leather_boots",
+  "category": "parcool:category_actions",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Salto en la Pared, es una habilidad para saltar más pateando la pared. Necesitas estar de espaldas a la pared.$(br)¡Sin embargo, no puedes ganar altura pateando bloques helados!"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Cómo Usar",
+      "text": "$(list)Presiona la tecla de Salto en la Pared($(k:parcool.WallJump)) junto a paredes en el aire"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Bebida Energética",
+  "icon": "minecraft:potion{\"Potion\":\"parcool:energy_drink\"}",
+  "category": "parcool:category_support_features",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "¿Te quedas sin energía frecuentemente? Vamos a $(strike)modificar la configuración$() hacer $(bold)Bebida Energética$(). ¡Puedes hacer movimientos de ParCool sin consumir energía!"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:potion{\"Potion\":\"parcool:energy_drink\"}",
+      "title": "Haciendo Bebida\\nEnergética",
+      "text": "Las Bebidas Energéticas se pueden hacer con el soporte para pociones.$(br2)La receta es$(list)[Poción Rara] + [Cuarzo del Nether]$(list)[Bebida Energética de Baja Calidad] + [Cuarzo del Nether]"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:potion{\"Potion\":\"parcool:poor_energy_drink\"}",
+      "title": "Bebida de Baja Calidad",
+      "text": "La Bebida Energética de Baja Calidad es una versión inferior de la Bebida Energética. Es fácil de hacer pero tiene algunos efectos negativos.$(br2)La receta es$(list)[Poción Rara] + [Patata Venenosa]$(list)[Poción Rara] + [Pollo]"
+    }
+  ]
+}

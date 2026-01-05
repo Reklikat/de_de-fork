@@ -1,0 +1,23 @@
+{
+  "name": "Voltear",
+  "icon": "minecraft:blaze_powder",
+  "category": "parcool:category_actions",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "ParCool añade una animación especial de salto: $(bold)Voltear$().$(br2) Puedes hacer volteretas hacia adelante y hacia atrás."
+    },
+    {
+      "type": "patchouli:image",
+      "border": "true",
+      "images": [
+        "parcool:textures/gui/entries/flipping_2.png"
+      ]
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Cómo Usar",
+      "text": "$(list)Presiona la tecla de movimiento izquierda y derecha simultáneamente$(list)Presiona la tecla de Voltear($(k:parcool.Flipping))"
+    }
+  ]
+}

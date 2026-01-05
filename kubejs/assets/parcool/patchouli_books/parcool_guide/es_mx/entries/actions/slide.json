@@ -1,0 +1,23 @@
+{
+  "name": "Deslizarse",
+  "icon": "minecraft:yellow_dye",
+  "category": "parcool:category_actions",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Deslizarse$() es una acción derivada de $(l:parcool:actions/crawl)Gatear$(). Puedes atravesar espacios estrechos rápidamente."
+    },
+    {
+      "type": "patchouli:image",
+      "border": "true",
+      "images": [
+        "parcool:textures/gui/entries/slide.png"
+      ]
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Cómo Usar",
+      "text": "$(list)Haz Gatear mientras usas $(l:parcool:actions/fast_run)Correr Rápido$()"
+    }
+  ]
+}

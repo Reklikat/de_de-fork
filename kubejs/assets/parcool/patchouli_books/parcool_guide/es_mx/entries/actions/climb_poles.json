@@ -1,0 +1,11 @@
+{
+  "name": "Escalar Postes",
+  "icon": "minecraft:quartz_pillar",
+  "category": "parcool:category_actions",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Puedes escalar bloques tipo poste, como vallas apiladas, cadenas, barrotes de hierro, etc."
+    }
+  ]
+}

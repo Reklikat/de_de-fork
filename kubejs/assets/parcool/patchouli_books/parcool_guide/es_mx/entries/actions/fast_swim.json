@@ -1,0 +1,16 @@
+{
+  "name": "Nadar Rápido",
+  "icon": "minecraft:water_bucket",
+  "category": "parcool:category_actions",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "También puedes nadar más rápido que antes: $(bold)Nadar Rápido$(). Contiene una animación original.$(br2)Su funcionamiento es el mismo que el de Correr Rápido."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Cómo Usar",
+      "text": "$(list) Mantén presionada la tecla de Correr Rápido($(k:parcool.FastRun)) mientras esprintas"
+    }
+  ]
+}

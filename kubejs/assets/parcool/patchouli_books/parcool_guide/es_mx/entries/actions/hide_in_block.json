@@ -1,0 +1,23 @@
+{
+  "name": "Esconderse en Bloque",
+  "icon": "minecraft:hay_block",
+  "category": "parcool:category_actions",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Es posible esconderse en bloques.$(br2)Los jugadores escondidos son más difíciles de encontrar para los enemigos. El nombre también se oculta a otros jugadores.$(br2)Te puedes esconder en estos bloques:$(list)Bloques de hojas$(list)Bloques de heno"
+    },
+    {
+      "type": "patchouli:image",
+      "border": "true",
+      "images": [
+        "parcool:textures/gui/entries/hide_in_block.png"
+      ]
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Cómo Usar",
+      "text": "$(list) Presiona la tecla de Esconderse en Bloque($(k:parcool.HideInBlock)) mientras te agachas cerca de los bloques en los que te quieres esconder"
+    }
+  ]
+}

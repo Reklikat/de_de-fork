@@ -1,0 +1,16 @@
+{
+  "name": "Giro Rápido",
+  "icon": "minecraft:iron_helmet",
+  "category": "parcool:category_actions",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A veces querrás girarte rápidamente hacia atrás. Presiona una sola tecla para hacerlo."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Cómo Usar",
+      "text": "$(list)Presiona la tecla de Giro Rápido($(k:parcool.QuickTurn))"
+    }
+  ]
+}

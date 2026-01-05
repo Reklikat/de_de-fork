@@ -1,0 +1,12 @@
+{
+  "name": "¿Qué es el Parkour?",
+  "icon": "minecraft:golden_boots",
+  "category": "parcool:category_about",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El $(italic)Parkour$() es un tipo de deporte, desarrollado por $(italic)David Belle$().$(br)El Parkour es una actividad donde los humanos se desplazan a otro punto lo más rápido posible por sus propios medios.$(br2)El nombre viene del francés $(italic)parcours$(), y a los practicantes se les llama $(italic)Traceur$().$(br)A veces al Parkour se le llama $(italic)Free Running$(). Se dice que esta es la traducción al inglés de Parkour."
+    }
+  ]
+}

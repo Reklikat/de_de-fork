@@ -1,0 +1,23 @@
+{
+  "name": "Colgarse",
+  "icon": "minecraft:stone",
+  "category": "parcool:category_actions",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Puedes colgarte de algunos bloques como cadenas o varas del end.$(br2)También es posible moverse y saltar hacia adelante presionando la tecla de salto."
+    },
+    {
+      "type": "patchouli:image",
+      "border": "true",
+      "images": [
+        "parcool:textures/gui/entries/hang_down.png"
+      ]
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Cómo Usar",
+      "text": "$(list) Presiona la tecla de Colgarse($(k:parcool.HangDown)) debajo de bloques finos horizontales$(br)"
+    }
+  ]
+}

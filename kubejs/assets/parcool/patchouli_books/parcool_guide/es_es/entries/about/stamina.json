@@ -1,0 +1,12 @@
+{
+  "name": "Energía",
+  "icon": "minecraft:golden_apple",
+  "category": "parcool:category_about",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Este mod añade el concepto de Energía al juego.$(br2)La energía se consume cuando realizas movimientos de ParCool. Cuando te quedas sin energía, recibes una penalización:$(list)No puedes esprintar y te mueves lento$(list)Se desactivan la mayoría de las acciones de ParCool$(br)Por favor, ten cuidado."
+    }
+  ]
+}

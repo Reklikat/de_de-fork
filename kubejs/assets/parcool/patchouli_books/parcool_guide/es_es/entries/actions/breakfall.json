@@ -1,0 +1,37 @@
+{
+  "name": "Caída Controlada",
+  "icon": "minecraft:slime_ball",
+  "category": "parcool:category_actions",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Las $(bold)Caídas Controladas$() son habilidades para protegernos del impacto al aterrizar.$(br2) Se han implementado 2 tipos: $(bold)Rodar$() y $(bold)Toque de Seguridad$()."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "parcool:textures/gui/entries/breakfall_tap.png"
+      ]
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Rodar",
+      "text": "$(bold)Rodar$() es un tipo de Caída Controlada. Transforma el impacto del aterrizaje en energía para rodar.$(br2)A veces se malinterpreta, pero el $(italic)Roll$() de parkour es una técnica de aterrizaje, por lo que el rodar de ParCool también se usa solo cuando aterrizas."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Cómo Usar",
+      "text": "$(list)Aterriza mientras presionas la tecla de movimiento hacia adelante o atrás y la tecla de Caída Controlada($(k:parcool.Breakfall))"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Toque de Seguridad",
+      "text": "El $(bold)Toque de Seguridad$() es un tipo de Caída Controlada. Absorbe un impacto doblando tus piernas.$(br2)Por cierto, ¿cómo puede Steve doblar sus piernas?"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Cómo Usar",
+      "text": "$(list)Aterriza mientras presionas la tecla de Caída Controlada($(k:parcool.Breakfall))"
+    }
+  ]
+}

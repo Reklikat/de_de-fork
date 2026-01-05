@@ -1,0 +1,23 @@
+{
+  "name": "Gatear",
+  "icon": "minecraft:nautilus_shell",
+  "category": "parcool:category_actions",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Puedes gatear por todas partes y pasar por recorridos estrechos.$(br)Por favor revisa también $(l:parcool:actions/slide)Deslizarse$()."
+    },
+    {
+      "type": "patchouli:image",
+      "border": "true",
+      "images": [
+        "parcool:textures/gui/entries/crawl.png"
+      ]
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Cómo Usar",
+      "text": "$(list) Presiona la tecla de Gatear($(k:parcool.Crawl))"
+    }
+  ]
+}

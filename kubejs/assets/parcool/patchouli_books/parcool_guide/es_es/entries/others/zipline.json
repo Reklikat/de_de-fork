@@ -1,0 +1,42 @@
+{
+  "name": "Tirolina",
+  "icon": "parcool:zipline_rope",
+  "category": "parcool:category_support_features",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La Tirolina es una instalación de parkour, conecta 2 puntos distantes y permite a los jugadores moverse de un lado al otro."
+    },
+    {
+      "type": "patchouli:image",
+      "border": "true",
+      "images": [
+        "parcool:textures/gui/entries/ride_zipline.png"
+      ]
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Gancho de Tirolina",
+      "text": "Primero decide 2 puntos para colocar la tirolina. Luego tenemos que colocar Ganchos de Tirolina en cada lugar.$(br2)Hay 2 tipos de gancho de tirolina. Uno de madera y otro hecho de hierro."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "parcool:wooden_zipline_hook",
+      "recipe2": "parcool:iron_zipline_hook"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Cuerda de Tirolina",
+      "text": "¿Has colocado los ganchos? Entonces vamos a fabricar la Cuerda de Tirolina. Usa el objeto mientras te agachas para cambiar la tensión de la cuerda.$(br2)Para colocar la tirolina, usa la cuerda en los 2 ganchos. Entonces los 2 puntos deberían quedar conectados por la tirolina."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "parcool:zipline_rope"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Cómo Usar",
+      "text": "$(list) Salta para acercarte a la tirolina y presiona la tecla de Montar en Tirolina($(k:parcool.RideZipline))"
+    }
+  ]
+}

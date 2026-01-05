@@ -1,0 +1,16 @@
+{
+  "name": "Salto de Gato",
+  "icon": "minecraft:cat_spawn_egg",
+  "category": "parcool:category_actions",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)Salto de Gato$() es una habilidad usada para saltar y aferrarse a lo alto de paredes, vallas, etc.$(br)Se dice que es una de las habilidades básicas del parkour.$(br)Los Traceurs absorben el impacto del aterrizaje con el movimiento de las piernas.$(br2)En este mod, se implementa como un salto largo. Por favor ten cuidado con el tiempo de enfriamiento."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Cómo Usar",
+      "text": "$(bold)1.$() Usa $(l:parcool:actions/fast_run)Correr Rápido$()$(br)$(bold)2.$() Agáchate rápidamente$(br)$(bold)3.$() Deja de agacharte rápidamente$(br2)También recomiendo usar $(l:parcool:actions/cling_to_cliff)Aferrarse al Acantilado$()."
+    }
+  ]
+}

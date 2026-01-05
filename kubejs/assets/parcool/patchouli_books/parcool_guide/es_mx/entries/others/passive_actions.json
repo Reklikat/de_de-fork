@@ -1,0 +1,16 @@
+{
+  "name": "Acciones Pasivas",
+  "icon": "minecraft:brick",
+  "category": "parcool:category_support_features",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "ParCool añade algunas habilidades pasivas y animaciones."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Animación de Caída",
+      "text": "Se añade una nueva animación para caídas largas. Si crees que esto es molesto, puedes desactivarlo en la configuración."
+    }
+  ]
+}

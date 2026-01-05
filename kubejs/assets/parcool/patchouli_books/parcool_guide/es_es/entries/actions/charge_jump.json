@@ -1,0 +1,22 @@
+{
+  "name": "Salto Cargado",
+  "icon": "minecraft:rabbit_foot",
+  "category": "parcool:category_actions",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Puedes usar el $(bold)Salto Cargado$() para saltar más alto.$(br)Esto te ayuda a superar vallas y escalar paredes altas.$(br2)Aunque es una habilidad simple, ¡te será muy útil!"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "parcool:textures/gui/entries/charge_jump_1.png"
+      ]
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Cómo Usar",
+      "text": "$(bold)1.$() Quédate quieto y agáchate por unos segundos $(br)$(bold)2.$() Suelta la tecla de agacharse y presiona la de salto simultáneamente."
+    }
+  ]
+}

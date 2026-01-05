@@ -1,0 +1,23 @@
+{
+  "name": "Correr Rápido",
+  "icon": "minecraft:diamond_boots",
+  "category": "parcool:category_actions",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "¡Ahora eres un practicante de parkour! Así que puedes correr más rápido que antes. Esta es la base de ParCool. Algunas otras acciones necesitan usar esto."
+    },
+    {
+      "type": "patchouli:image",
+      "border": "true",
+      "images": [
+        "parcool:textures/gui/entries/fast_run.png"
+      ]
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Cómo Usar",
+      "text": "$(list) Mantén presionada la tecla de Correr Rápido($(k:parcool.FastRun)) mientras esprintas"
+    }
+  ]
+}

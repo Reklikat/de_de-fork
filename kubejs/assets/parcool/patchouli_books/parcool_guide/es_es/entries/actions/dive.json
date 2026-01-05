@@ -1,0 +1,23 @@
+{
+  "name": "Bucear",
+  "icon": "minecraft:cod",
+  "category": "parcool:category_actions",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "ParCool añade una animación especial de salto: $(bold)Bucear$(). Veámosla en tercera persona. Además, al presionar la tecla de salto de nuevo tras unos segundos, Bucear pasa a ser Buceo Aéreo."
+    },
+    {
+      "type": "patchouli:image",
+      "border": "true",
+      "images": [
+        "parcool:textures/gui/entries/dive.png"
+      ]
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Cómo Usar",
+      "text": "$(bold)1.$() Haz $(l:parcool:actions/fast_run)Correr Rápido$()$(br)$(bold)2.$() Salta hacia un espacio amplio desde un lugar alto"
+    }
+  ]
+}

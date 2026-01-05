@@ -1,0 +1,30 @@
+{
+  "name": "Aferrarse al Acantilado",
+  "icon": "minecraft:stone",
+  "category": "parcool:category_actions",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Puedes aferrarte al borde de los bloques y quedarte ahí. Por supuesto, es posible moverse aunque sea lentamente.$(br) También puedes subir a los bloques presionando la tecla de salto."
+    },
+    {
+      "type": "patchouli:image",
+      "border": "true",
+      "images": [
+        "parcool:textures/gui/entries/cling_to_cliff_1.png"
+      ]
+    },
+    {
+      "type": "patchouli:image",
+      "border": "true",
+      "images": [
+        "parcool:textures/gui/entries/cling_to_cliff_2.png"
+      ]
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Cómo Usar",
+      "text": "$(list) Presiona la tecla de Aferrarse al Acantilado($(k:parcool.ClingToCliff)) junto a una pared$(br)"
+    }
+  ]
+}

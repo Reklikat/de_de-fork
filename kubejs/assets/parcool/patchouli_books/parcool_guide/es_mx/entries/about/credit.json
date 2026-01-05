@@ -1,0 +1,62 @@
+{
+  "name": "Créditos",
+  "icon": "minecraft:written_book",
+  "category": "parcool:category_about",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Esta es una lista de los desarrolladores y traductores del Mod.$(br2)También agradezco las contribuciones de personas no listadas."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Desarrolladores",
+      "text": "Desarrollo Principal$()$(italic)$(list)alRex-U$()"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Sonido",
+      "text": "$(italic)$(list)SquARzY"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Traductores (Inglés)",
+      "text": "$(bold)en_us$()$(italic)$(list)alRex-U"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Traductores (Japonés)",
+      "text": "$(bold)ja_jp$()$(italic)$(list)alRex-U"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Traductores (Chino)",
+      "text": "$(bold)ch_zn$()$(italic)$(list)CatalystGinger$(list)GuoDaiYi$(list)njt-233$(list)Kasualix"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Traductores (Francés)",
+      "text": "$(bold)fr-fr$()$(italic)$(list)COwOkie"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Traductores (Brasileño)",
+      "text": "$(bold)pt-br$()$(italic)$(list)FITFC"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Traductores (Español)",
+      "text": "$(bold)es-es$()$(italic)$(list)GhostOfCazador$(list)elAltrex$(list)xRennKu$(br)$(bold)es-mx$()$(italic)$(list)xRennKu"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Traductores (Coreano)",
+      "text": "$(bold)ko-kr$()$(italic)$(list)Mexwell12"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Traductores (Ruso)",
+      "text": "$(bold)ru-ru$()$(italic)$(list)MasterXort"
+    }
+  ]
+}

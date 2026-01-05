@@ -1,0 +1,16 @@
+{
+  "name": "Deslizarse por la Pared",
+  "icon": "minecraft:sand",
+  "category": "parcool:category_actions",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Puedes caer lentamente aferrándote a la pared. Esta acción se ve afectada por lo resbaladizo de los bloques, así que los jugadores no pueden frenar la caída en paredes de hielo."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Cómo Usar",
+      "text": "$(list)Presiona la tecla de Deslizarse por la Pared($(k:parcool.WallSlide)) junto a paredes en el aire"
+    }
+  ]
+}
